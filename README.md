@@ -14,7 +14,7 @@ Original App Design Project - README Template
 A guided/group Meditation app where people can join voice channels to meditate with an instructor/with each other.
 
 ### App Evaluation
-[Evaluation of your app across the following attributes]
+
 - **Category:**
 Health and Fitness
 - **Mobile:**
