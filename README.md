@@ -22,7 +22,7 @@ Mobile phones are the best way to ensure that users have easy-to-use and access 
 - **Story:**
 A key part of meditation and mindfulness is the feeling of being connected with others. A group meditation app would allow for the establishment of communities of meditators. Would bring in a sense of accountability and collaboration around meditative practices. 
 - **Market:**
-There is a large number of people getting into mindfulness and meditation. One of the key parts of mindful Although it is possible to do group meditations on other general purpose platforms such as Discord or Zoom, these platforms are full of other distractions and aren't designed with this specific functionality in mind. 
+There is a large number of people getting into mindfulness and meditation. Group meditations can be particularly useful for making people feel connected with others. Although it is possible to do group meditations on other general purpose platforms such as Discord or Zoom, these platforms are full of other distractions and aren't designed with this specific functionality in mind. 
 - **Habit:**
 Most people getting into meditation want to establish a daily meditation practice. With group meditation there might be added accountability to meditate at a fixed time daily through the app. 
 - **Scope:**
