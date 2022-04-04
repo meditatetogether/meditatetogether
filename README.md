@@ -91,10 +91,22 @@ V2 would allow the creation of new voice channels with restricted access.
 ### [BONUS] Interactive Prototype
 
 ## Schema 
-[This section will be completed in Unit 9]
+
+
 ### Models
+
+Stream Object 
+   | Property      | Type     | Description |
+   | ------------- | -------- | ------------|
+   | objectId      | String   | unique id for the voice channel (default field) |
+   | userCount | Number   | number of users in a voice channel |
+   | createdAt     | DateTime | date when  is created (default field) |
+
 [Add table of models]
 ### Networking
-- [Add list of network requests by screen ]
-- [Create basic snippets for each Parse network request]
-- [OPTIONAL: List endpoints if using existing API such as Yelp]
+-    - Home Feed Screen
+      - (Read/GET) Query all streams
+   - Profile Screen
+      - (Read/GET) Query logged in user object
+      - (Update/PUT) Update user profile image
+
