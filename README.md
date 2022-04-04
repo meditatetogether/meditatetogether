@@ -105,7 +105,7 @@ Stream Object
 [Add table of models]
 ### Networking
 -    - Home Feed Screen
-      - (Read/GET) Query all streams
+      - (Read/GET) Query all voice channels
    - Profile Screen
       - (Read/GET) Query logged in user object
       - (Update/PUT) Update user profile image
